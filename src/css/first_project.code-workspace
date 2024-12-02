@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../first_project"
+		},
+		{
+			"path": "../../../radio"
+		},
+		{
+			"path": "../../../uber"
+		},
+		{
+			"path": "../../../cssNestingEx"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "photo-portfolio"
+	}
+}
